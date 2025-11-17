@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|c:\\users\\bcmyg\\onedrive\\m\u00E1y t\u00EDnh\\study\\ptudtmdt\\veloura\\veloura\\data\\velouracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B848780-B624-447D-883A-CC352D3CC519}|VELOURA\\VELOURA.csproj|solutionrelative:veloura\\data\\velouracontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "VELOURA\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\wwwroot\\index.html",
+              "RelativeToolTip": "VELOURA\\wwwroot\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-17T13:42:05.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "VELOURA\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "VELOURA\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T13:44:43.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VELOURA\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VELOURA\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-17T13:50:40.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangHoasController.cs",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Controllers\\HangHoasController.cs",
+              "RelativeDocumentMoniker": "VELOURA\\Controllers\\HangHoasController.cs",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Controllers\\HangHoasController.cs",
+              "RelativeToolTip": "VELOURA\\Controllers\\HangHoasController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:58:05.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Program.cs",
+              "RelativeDocumentMoniker": "VELOURA\\Program.cs",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Program.cs",
+              "RelativeToolTip": "VELOURA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T01:50:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VelouraContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Data\\VelouraContext.cs",
+              "RelativeDocumentMoniker": "VELOURA\\Data\\VelouraContext.cs",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\Data\\VelouraContext.cs",
+              "RelativeToolTip": "VELOURA\\Data\\VelouraContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:17:46.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\appsettings.json",
+              "RelativeDocumentMoniker": "VELOURA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bcmyg\\OneDrive\\M\u00E1y t\u00EDnh\\STUDY\\PTUDTMDT\\VELOURA\\VELOURA\\appsettings.json",
+              "RelativeToolTip": "VELOURA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T07:10:36.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
